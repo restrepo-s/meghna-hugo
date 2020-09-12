@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "dream"
 title = "Sebastian Restrepo"
 [Languages.en]
 contentDir = "content/english"
